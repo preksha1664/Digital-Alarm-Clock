@@ -19,5 +19,7 @@ Usage:
     2. Change into the project directory:
         cd digital-clock-tkinter
 
-    3. python digital_clock.py
+    3. Run the script:
+       python digital_clock.py
+       
     4. The digital clock window will appear displaying the current time.
